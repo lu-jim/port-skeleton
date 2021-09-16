@@ -12,10 +12,10 @@ html {
   margin: 0 auto;
 }
 
-.content{
+.content {
   background-image: url(/resources/header-shapes\ mobile@2x.svg);
   min-height: 100vh;
-  background-size:contain;
+  background-size: contain;
   margin: 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -27,34 +27,36 @@ h1 {
   font-size: 48px;
 }
 
-.flex-nav ul{
+.flex-nav ul {
   display: flex;
   list-style: none;
   justify-content: space-between;
   align-items: baseline;
-  color: #6070FF;
-  font-family: Poppins;
+  color: #6070ff;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 20px;
 }
 
-
-.menu-item{
+.menu-item {
   display: none;
 }
 
 .connect {
   color: #7f8cff;
+
   /* Body / 2 - Bolder */
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height, or 150% */
   text-transform: uppercase;
 }
+
 p {
   color: black;
 }
@@ -68,7 +70,7 @@ p {
   justify-content: space-between;
 }
 
-.hamburger-menu{
+.hamburger-menu {
   padding: 10px;
   font-size: 25px;
 }
