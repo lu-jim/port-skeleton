@@ -12,10 +12,10 @@ html {
   margin: 0 auto;
 }
 
-.content{
+.content {
   background-image: url(/resources/header-shapes\ mobile@2x.svg);
   min-height: 100vh;
-  background-size:contain;
+  background-size: contain;
   margin: 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -27,12 +27,12 @@ h1 {
   font-size: 48px;
 }
 
-.flex-nav ul{
+.flex-nav ul {
   display: flex;
   list-style: none;
   justify-content: space-between;
   align-items: baseline;
-  color: #6070FF;
+  color: #6070ff;
   font-family: Poppins;
   font-style: normal;
   font-weight: bold;
@@ -40,8 +40,7 @@ h1 {
   line-height: 20px;
 }
 
-
-.menu-item{
+.menu-item {
   display: none;
 }
 
@@ -68,7 +67,7 @@ p {
   justify-content: space-between;
 }
 
-.hamburger-menu{
+.hamburger-menu {
   padding: 10px;
   font-size: 25px;
 }
