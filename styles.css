@@ -14,18 +14,24 @@ html {
 }
 
 .content {
-  background-image: url(/resources/header-shapes\ mobile@2x.svg);
-  min-height: 100vh;
-  background-size: contain;
-  margin: 0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  display: flex;
+  background-image: url(https://tinyurl.com/74ycranu);
+  background-size: cover;
+  min-height: 80vh;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1em;
+
 }
 
 h1 {
   color: #091e42;
   font-weight: 700;
   font-size: 48px;
+}
+
+a {
+  text-decoration: none;
 }
 
 .flex-nav ul {
@@ -38,6 +44,7 @@ h1 {
   font-weight: bold;
   font-size: 18px;
   line-height: 20px;
+  padding: 1em;
 }
 
 .menu-item {
