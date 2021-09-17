@@ -32,6 +32,7 @@ h1 {
 
 a {
   text-decoration: none;
+  color: #7f8cff;
 }
 
 .flex-nav ul {
@@ -52,8 +53,6 @@ a {
 }
 
 .connect {
-  color: #7f8cff;
-
   /* Body / 2 - Bolder */
   font-style: normal;
   font-weight: 500;
