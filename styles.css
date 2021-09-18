@@ -17,9 +17,10 @@ html {
   display: flex;
   background-image: url(./resources/header-shapes\ mobile@2x.svg);
   background-size: cover;
+  background-repeat: no-repeat;
   min-height: 80vh;
   flex-direction: column;
-  justify-content: center;
+  justify-content:space-evenly;
   padding: 1em;
 }
 
@@ -78,4 +79,9 @@ p {
 .hamburger-menu {
   padding: 10px;
   font-size: 25px;
+}
+
+.header{
+  max-width: 50vw;
+  min-width: 375px;
 }
