@@ -15,7 +15,7 @@ html {
 
 .content {
   display: flex;
-  background-image: url(https://tinyurl.com/74ycranu);
+  background-image: url(./resources/header-shapes\ mobile@2x.svg);
   background-size: cover;
   min-height: 80vh;
   flex-direction: column;
@@ -34,7 +34,7 @@ a {
   color: #7f8cff;
 }
 
-.flex-nav ul {
+.flex-nav {
   display: flex;
   list-style: none;
   justify-content: space-between;
