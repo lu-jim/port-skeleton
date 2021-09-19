@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
 :root {
   font-family: Poppins, sans-serif;
 }
@@ -61,6 +62,7 @@ a {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+
   /* identical to box height, or 150% */
   text-transform: uppercase;
 }
@@ -114,14 +116,14 @@ p {
   letter-spacing: 0.03em;
   color: #396df2;
   line-height: 1.5em;
-  background-color: #ffffff;
+  background-color: #fff;
   border-radius: 0.5em;
   border: 1px solid #396df2;
   padding: 0.5rem;
 }
 
 .see-project:hover {
-  color: #ffffff;
+  color: #fff;
   background-color: #396df2;
   transition: 0.1s;
 }
@@ -149,7 +151,7 @@ p {
   border-radius: 1em;
   max-width: 56rem;
   align-items: flex-start;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   box-sizing: border-box;
   min-height: calc(542px - 32px);
@@ -174,7 +176,7 @@ p {
   background-color: #ebebff;
   color: #6070ff;
   padding: 0.4em;
-  margin: 0.5em 0.5em 0.5em 0em;
+  margin: 0.5em 0.5em 0.5em 0;
 }
 
 .counter-card {
@@ -196,7 +198,7 @@ p {
   border-radius: 1em;
   max-width: 56rem;
   align-items: flex-start;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   box-sizing: border-box;
   min-height: calc(542px - 32px);
@@ -214,7 +216,7 @@ p {
   border-radius: 1em;
   max-width: 56rem;
   align-items: flex-start;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   box-sizing: border-box;
   min-height: calc(542px - 32px);
@@ -232,7 +234,7 @@ p {
   border-radius: 1em;
   max-width: 56rem;
   align-items: flex-start;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   box-sizing: border-box;
   min-height: calc(542px - 32px);
@@ -268,7 +270,7 @@ p {
   font-size: 1.2em;
   justify-content: space-between;
   width: 100%;
-  padding: 0px;
+  padding: 0;
   margin-bottom: 2em;
 }
 
@@ -276,11 +278,11 @@ p {
   list-style: none;
   display: flex;
   flex-direction: column;
-  padding: 0px;
+  padding: 0;
 }
 
 .skill-list {
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .subitem {
