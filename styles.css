@@ -12,7 +12,7 @@ html {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  background: #F7F7F9;
+  background: #f7f7f9;
 }
 
 h1 {
@@ -112,27 +112,27 @@ p {
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
-  color: #396DF2;
+  color: #396df2;
   line-height: 1.5em;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   border-radius: 0.5em;
-  border: 1px solid #396DF2;
+  border: 1px solid #396df2;
   padding: 0.5rem;
 }
 
 .see-project:hover {
-  color: #FFFFFF;
-  background-color: #396DF2;
+  color: #ffffff;
+  background-color: #396df2;
   transition: 0.1s;
 }
 
 .see-project:active {
-  background-color: #2230D2;
+  background-color: #2230d2;
 }
 
 .see-project:disabled {
-  color: #5E6C84;
-  background-color: #5E6C84;
+  color: #5e6c84;
+  background-color: #5e6c84;
 }
 
 .card-headers {
@@ -149,8 +149,8 @@ p {
   border-radius: 1em;
   max-width: 56rem;
   align-items: flex-start;
-  background: #FFFFFF;
-  border: 1px solid #DFE1E6;
+  background: #ffffff;
+  border: 1px solid #dfe1e6;
   box-sizing: border-box;
   min-height: calc(542px - 32px);
   min-width: 300px;
@@ -171,8 +171,8 @@ p {
 
 .hashtag {
   border-radius: 1em;
-  background-color: #EBEBFF;
-  color: #6070FF;
+  background-color: #ebebff;
+  color: #6070ff;
   padding: 0.4em;
   margin: 0.5em 0.5em 0.5em 0em;
 }
@@ -196,8 +196,8 @@ p {
   border-radius: 1em;
   max-width: 56rem;
   align-items: flex-start;
-  background: #FFFFFF;
-  border: 1px solid #DFE1E6;
+  background: #ffffff;
+  border: 1px solid #dfe1e6;
   box-sizing: border-box;
   min-height: calc(542px - 32px);
   min-width: 300px;
@@ -214,8 +214,8 @@ p {
   border-radius: 1em;
   max-width: 56rem;
   align-items: flex-start;
-  background: #FFFFFF;
-  border: 1px solid #DFE1E6;
+  background: #ffffff;
+  border: 1px solid #dfe1e6;
   box-sizing: border-box;
   min-height: calc(542px - 32px);
   min-width: 300px;
@@ -232,8 +232,8 @@ p {
   border-radius: 1em;
   max-width: 56rem;
   align-items: flex-start;
-  background: #FFFFFF;
-  border: 1px solid #DFE1E6;
+  background: #ffffff;
+  border: 1px solid #dfe1e6;
   box-sizing: border-box;
   min-height: calc(542px - 32px);
   min-width: 300px;
@@ -285,7 +285,7 @@ p {
 
 .subitem {
   display: flex;
-  background: #F7F7F9;
+  background: #f7f7f9;
   border-radius: 0.5em;
   margin-bottom: 0.75em;
   align-items: center;
@@ -298,5 +298,5 @@ p {
 
 .resume {
   align-self: flex-start;
-  margin: 1em 0em;
+  margin: 1em 0;
 }
